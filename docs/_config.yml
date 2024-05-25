@@ -13,12 +13,12 @@ showinSearchEngines: false
 # Set basic server info
 serverName: See The Starbs
 serverDescription: A Private Minecraft Server Among Friends
-serverIP: SeeTheStarbs.live:25565
+serverIP: SeeTheStarbs.live
 useBedrockForOnlineStatus: false
 
 
 # Discord information
-discordInvite: https://discord.gg/minecraft
+discordInvite: https://discord.gg/WDsW4qGCJf
 discordServerID: 967982299834646598
 discordChannelID: 979650200194916392
 
