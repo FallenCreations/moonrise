@@ -13,7 +13,7 @@ showinSearchEngines: false
 # Set basic server info
 serverName: See The Starbs
 serverDescription: A Private Minecraft Server Among Friends
-serverIP: SeeTheStarbs.live
+serverIP: play.SeeTheStarbs.live
 useBedrockForOnlineStatus: false
 
 
