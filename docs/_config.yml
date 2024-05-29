@@ -14,7 +14,7 @@ showinSearchEngines: false
 serverName: See The Starbs
 serverDescription: A Private Minecraft Server Among Friends
 serverIP: play.SeeTheStarbs.live
-bedrockIP:bedrock.SeeTheStarbs.live:25733
+bedrockIP: bedrock.SeeTheStarbs.live:25733
 useBedrockForOnlineStatus: false
 
 
