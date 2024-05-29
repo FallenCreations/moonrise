@@ -14,3 +14,9 @@ fetch("https://api.mcsrvstat.us/{% if site.useBedrockForOnlineStatus == true %}b
     .then(response => {
         return response.json();
     })
+
+fetch("https://api.mcsrvstat.us/bedrock/2/{{ site.bedrockIP }}")
+    .then(handleErrors)
+    .then(response => {
+        return response.json();
+    })
